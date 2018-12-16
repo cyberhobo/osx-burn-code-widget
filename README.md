@@ -9,5 +9,6 @@ provides on its website:
 
 ## Build and Install
 
-Run the `bin/build.sh` bash script to create `dist/Truckee River Reno.wdgt`. 
-Double click that in the OS X Finder to install the widget.
+Run the `bin/build.sh` bash script to create
+`dist/Washoe County Burn Code.wdgt`. Double click that in the OS X
+Finder to install the widget.
